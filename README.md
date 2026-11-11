@@ -53,7 +53,6 @@ Computer Vision · CNNs · GANs · Transfer Learning · VGG16 · KNN · Siamese 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-Web applications
 
 ## Explore more
 
