@@ -33,13 +33,27 @@ I am currently pursuing my Master of Science in Computer Science (MSCS) and buil
 ## Tools & technologies
 
 ### Languages
-🐍 Python · 🟨 JavaScript · 🔧 C · ➕ C++ · 🐘 PHP · 🌐 HTML · 🎨 CSS · 🗃️ SQL
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.iso.org/standard/76583.html)
 
 ### AI / machine learning
-👁️ Computer Vision · 🧠 CNNs · 🧬 GANs · 📈 Transfer Learning · 🖼️ VGG16 · 🔍 KNN · 🧩 Siamese Networks · 📊 Naive Bayes · 🧠 Neural Networks · 📝 NLP
+
+Computer Vision · CNNs · GANs · Transfer Learning · VGG16 · KNN · Siamese Networks · Naive Bayes · Neural Networks · NLP
 
 ### Web development & data
-⚙️ Node.js · 🗄️ MySQL · 🌍 Web Applications · 📓 Jupyter Notebook
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+Web applications
 
 ## Explore more
 
